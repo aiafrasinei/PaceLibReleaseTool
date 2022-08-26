@@ -1,0 +1,3 @@
+[submodule "PaceLib"]
+	path = PaceLib
+	url = git@github.com:aiafrasinei/PaceLib.git
