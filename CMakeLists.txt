@@ -19,7 +19,7 @@ include_directories(PaceLib/include/PaceLib/core)
 include_directories(PaceLib/include/PaceLib/core/interfaces)
 include_directories(PaceLib/include/PaceLib/config)
 
-file(GLOB sources PaceLib/src/*.cpp)
+file(GLOB sources PaceLib/src/*.cpp PaceLib/src/*.c)
 
 add_library(PaceLib ${sources})
 
