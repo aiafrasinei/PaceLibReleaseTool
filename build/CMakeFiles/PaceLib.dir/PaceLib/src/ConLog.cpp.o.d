@@ -1,7 +1,7 @@
 CMakeFiles/PaceLib.dir/PaceLib/src/ConLog.cpp.o: \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/src/ConLog.cpp \
  /usr/include/stdc-predef.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.hpp \
  /usr/include/c++/12/string \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

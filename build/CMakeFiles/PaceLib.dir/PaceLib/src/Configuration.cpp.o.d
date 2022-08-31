@@ -1,7 +1,7 @@
 CMakeFiles/PaceLib.dir/PaceLib/src/Configuration.cpp.o: \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/src/Configuration.cpp \
  /usr/include/stdc-predef.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/config/Configuration.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/config/Configuration.hpp \
  /usr/include/c++/12/string \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

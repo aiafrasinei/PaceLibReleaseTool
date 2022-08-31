@@ -1,7 +1,7 @@
 CMakeFiles/PaceLib.dir/PaceLib/src/Scene.cpp.o: \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/src/Scene.cpp \
  /usr/include/stdc-predef.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/scene/Scene.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/scene/Scene.hpp \
  /usr/include/c++/12/string \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -100,7 +100,7 @@ CMakeFiles/PaceLib.dir/PaceLib/src/Scene.cpp.o: \
  /usr/include/c++/12/bits/stl_vector.h \
  /usr/include/c++/12/bits/stl_bvector.h \
  /usr/include/c++/12/bits/vector.tcc \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/TexContainer.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/TexContainer.hpp \
  /usr/include/c++/12/unordered_map \
  /usr/include/c++/12/ext/aligned_buffer.h \
  /usr/include/c++/12/bits/hashtable.h \
@@ -303,6 +303,6 @@ CMakeFiles/PaceLib.dir/PaceLib/src/Scene.cpp.o: \
  /usr/include/c++/12/map /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/bits/stl_map.h \
  /usr/include/c++/12/bits/stl_multimap.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/FontContainer.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/FontContainer.hpp \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/SDL2/SDL_FontCache.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/interfaces/Drawable.h
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/interfaces/Drawable.hpp

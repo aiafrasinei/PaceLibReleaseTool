@@ -1,7 +1,7 @@
 CMakeFiles/PaceLib.dir/PaceLib/src/Window.cpp.o: \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/src/Window.cpp \
  /usr/include/stdc-predef.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/Window.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/Window.hpp \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../utils/sdlu.h \
  /usr/include/c++/12/string \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++config.h \
@@ -231,7 +231,7 @@ CMakeFiles/PaceLib.dir/PaceLib/src/Window.cpp.o: \
  /usr/include/SDL2/SDL_version.h /usr/include/SDL2/SDL_locale.h \
  /usr/include/SDL2/SDL_misc.h /usr/include/SDL2/SDL_image.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_ttf.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../config/Configuration.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../config/Configuration.hpp \
  /usr/include/c++/12/iostream /usr/include/c++/12/ostream \
  /usr/include/c++/12/ios /usr/include/c++/12/exception \
  /usr/include/c++/12/bits/exception_ptr.h \
@@ -336,4 +336,4 @@ CMakeFiles/PaceLib.dir/PaceLib/src/Window.cpp.o: \
  /usr/include/c++/12/bits/sstream.tcc /usr/include/c++/12/codecvt \
  /usr/include/c++/12/bits/fs_dir.h /usr/include/c++/12/bits/fs_ops.h \
  /usr/include/c++/12/cstring \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.h
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.hpp

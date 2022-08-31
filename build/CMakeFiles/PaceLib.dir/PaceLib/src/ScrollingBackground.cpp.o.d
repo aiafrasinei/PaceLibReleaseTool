@@ -236,9 +236,9 @@ CMakeFiles/PaceLib.dir/PaceLib/src/ScrollingBackground.cpp.o: \
  /usr/include/SDL2/SDL_version.h /usr/include/SDL2/SDL_locale.h \
  /usr/include/SDL2/SDL_misc.h /usr/include/SDL2/SDL_image.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_ttf.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/graphics/effects/../../core/interfaces/Hidable.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/graphics/effects/../../core/Window.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/graphics/effects/../../core/../config/Configuration.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/graphics/effects/../../core/interfaces/Hidable.hpp \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/graphics/effects/../../core/Window.hpp \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/graphics/effects/../../core/../config/Configuration.hpp \
  /usr/include/c++/12/iostream /usr/include/c++/12/ostream \
  /usr/include/c++/12/ios /usr/include/c++/12/exception \
  /usr/include/c++/12/bits/exception_ptr.h \
@@ -339,4 +339,4 @@ CMakeFiles/PaceLib.dir/PaceLib/src/ScrollingBackground.cpp.o: \
  /usr/include/c++/12/bits/sstream.tcc /usr/include/c++/12/codecvt \
  /usr/include/c++/12/bits/fs_dir.h /usr/include/c++/12/bits/fs_ops.h \
  /usr/include/c++/12/cstring \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.h
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.hpp

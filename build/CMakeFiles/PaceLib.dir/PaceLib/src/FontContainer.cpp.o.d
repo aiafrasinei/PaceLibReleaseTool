@@ -1,7 +1,7 @@
 CMakeFiles/PaceLib.dir/PaceLib/src/FontContainer.cpp.o: \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/src/FontContainer.cpp \
  /usr/include/stdc-predef.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/FontContainer.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/FontContainer.hpp \
  /usr/include/c++/12/string \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -291,7 +291,7 @@ CMakeFiles/PaceLib.dir/PaceLib/src/FontContainer.cpp.o: \
  /usr/include/SDL2/SDL_misc.h /usr/include/SDL2/SDL_image.h \
  /usr/include/SDL2/SDL.h /usr/include/SDL2/SDL_ttf.h \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/SDL2/SDL_FontCache.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/TexContainer.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/TexContainer.hpp \
  /usr/include/c++/12/unordered_map /usr/include/c++/12/bits/hashtable.h \
  /usr/include/c++/12/bits/hashtable_policy.h \
  /usr/include/c++/12/bits/enable_special_members.h \
@@ -303,9 +303,9 @@ CMakeFiles/PaceLib.dir/PaceLib/src/FontContainer.cpp.o: \
  /usr/include/c++/12/map /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/bits/stl_map.h \
  /usr/include/c++/12/bits/stl_multimap.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/Window.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../config/Configuration.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/utils/ConLog.hpp \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/Window.hpp \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../config/Configuration.hpp \
  /usr/include/c++/12/iostream /usr/include/c++/12/fstream \
  /usr/include/c++/12/x86_64-redhat-linux/bits/basic_file.h \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++io.h \

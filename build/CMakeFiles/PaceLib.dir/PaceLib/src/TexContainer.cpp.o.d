@@ -1,7 +1,7 @@
 CMakeFiles/PaceLib.dir/PaceLib/src/TexContainer.cpp.o: \
  /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/src/TexContainer.cpp \
  /usr/include/stdc-predef.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/TexContainer.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/resources/TexContainer.hpp \
  /usr/include/c++/12/string \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -301,8 +301,8 @@ CMakeFiles/PaceLib.dir/PaceLib/src/TexContainer.cpp.o: \
  /usr/include/c++/12/map /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/bits/stl_map.h \
  /usr/include/c++/12/bits/stl_multimap.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/Window.h \
- /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../config/Configuration.h \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/Window.hpp \
+ /home/aiaf/Projects/GRAPHICS/PaceLibReleaseTool/PaceLib/include/PaceLib/core/../config/Configuration.hpp \
  /usr/include/c++/12/iostream /usr/include/c++/12/fstream \
  /usr/include/c++/12/x86_64-redhat-linux/bits/basic_file.h \
  /usr/include/c++/12/x86_64-redhat-linux/bits/c++io.h \
